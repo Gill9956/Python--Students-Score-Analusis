@@ -1,1 +1,1 @@
-# Python--Students-Score-Analusis
+# Python--Students-Score-Analaysis
